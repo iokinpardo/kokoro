@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       model_name:
-        description: 'jaaari/kokoro-82m'
+        description: 'iokinpardo/bts-kokoro-tts'
         required: true
  
 jobs:
