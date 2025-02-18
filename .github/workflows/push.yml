@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       model_name:
-        description: 'alice/bunny-detector'
+        description: 'jaaari/kokoro-82m'
         required: true
  
 jobs:
